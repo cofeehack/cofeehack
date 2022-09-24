@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Edwin R&R
-#### I am GitHub Readme Generator's creator
+
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I made this project just for fun.
